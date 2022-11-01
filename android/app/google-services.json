@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394591110593",
+    "project_id": "user-auth-1478e",
+    "storage_bucket": "user-auth-1478e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394591110593:android:e7f2fbece20750f2c05b40",
+        "android_client_info": {
+          "package_name": "com.example.user_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394591110593-dl3rraa7cetfhr97oectrgjsjo9is585.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUX7GjgDrUailYKdpV2shXze-FJJjQ5Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394591110593-dl3rraa7cetfhr97oectrgjsjo9is585.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
